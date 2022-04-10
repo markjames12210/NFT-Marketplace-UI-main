@@ -14,10 +14,6 @@ NFT Marketplace template for creation, sale, and purchase of digital art as NFTs
 
 ## Build Setup
 
-``` bash
-# clone project
-$ git clone https://github.com/kasim393/NFT-Marketplace.git
-
 # install dependencies
 $ npm install
 
